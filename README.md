@@ -1,5 +1,8 @@
 # The History of Everything
 
+#If you were used Hero Widget for you min menu like when we click on any item its open like hero it will quite look awsome <3
+# if u give me access i can but its a think for tyou btw its look awsome
+
 <img align="right" src="https://cdn.2dimensions.com/1_Start.gif" height="400">
 
 The History of Everything is a vertical timeline that allows you to navigate, explore, and compare events from the Big Bang to the birth of the Internet. Events are beautifully illustrated and animated.
